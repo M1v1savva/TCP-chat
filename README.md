@@ -1,1 +1,1 @@
-aa
+Simple online chat for local network built on TCP protocol.
