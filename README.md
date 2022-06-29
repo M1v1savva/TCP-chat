@@ -1,1 +1,1 @@
-Simple online chat for local network built on TCP protocol.
+Simple local network chat built with TCP protocol.
